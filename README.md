@@ -1,2 +1,2 @@
 # Cat-VS-Dog-Classifier
-Deep learning project using CNN to classify cat and dog images. Implemented in TensorFlow and Keras, trained on a labeled dataset. Includes model code and training data.
+This repository contains a deep learning project for classifying images of cats and dogs. The project utilizes convolutional neural networks (CNNs) to achieve high accuracy in distinguishing between the two animal classes. The model is implemented using TensorFlow and Keras, and it is trained on a large dataset of labeled cat and dog images. The repository includes the model code, training data, and evaluation scripts to assess the model's performance. Additionally, it provides instructions for running the classifier on new images to predict whether they contain a cat or a dog.
